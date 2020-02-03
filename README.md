@@ -1,4 +1,4 @@
-# IOSDTaskPhaseAppWeb
+# IOSDTaskPhase
 How to make the submission:
 1. Fork this repository.
 2. Create a new branch.
